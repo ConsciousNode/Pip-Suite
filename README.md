@@ -22,7 +22,7 @@ Each app is **one web page**. There are no accounts, no servers and no installs.
 2. Download a model file (below). You only do this once.
 3. Tap **+** / **Load Model**, choose the file, and say hello.
 
-Pip's Room has a **?** help button that explains everything it can do.
+Every app has a **?** help button that explains everything it can do.
 
 ## Which model?
 
